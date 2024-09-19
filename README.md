@@ -1,4 +1,4 @@
-# Start Data Engineering DE 101 Free Course
+# Start Data Engineering DE 101 Free Course 
 
 * [Course details](#course-details)
     * [Basics](#basics)
